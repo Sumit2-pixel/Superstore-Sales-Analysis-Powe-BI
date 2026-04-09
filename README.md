@@ -28,4 +28,4 @@ This is my first Power BI project where I analyzed sales and profit data using t
 
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](image/dashboard.png)
